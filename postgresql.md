@@ -4,7 +4,7 @@ Here are some important commands related to PostgreSQL !
 
 ---
 
-```
+```bash
 sudo service postgresql start
 ```
 
