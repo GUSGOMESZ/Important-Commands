@@ -1,5 +1,9 @@
 # POSTGRESQL 🐋
 
+Here are some important commands related to PostgreSQL !
+
+---
+
 ```
 sudo service postgresql start
 ```
