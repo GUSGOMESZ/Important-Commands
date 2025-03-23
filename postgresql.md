@@ -1,4 +1,4 @@
-# POSTGRESQL 🐋
+# POSTGRESQL 🐘
 
 Here are some important commands related to PostgreSQL !
 
