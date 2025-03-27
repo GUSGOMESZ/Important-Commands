@@ -5,7 +5,7 @@ Here are some important commands related to Mix !
 # Basic Commands
 
 ```bash
-mix new nome_do_projeto
+mix new project_name
 ```
 
 Creates a new elixir project.
@@ -84,3 +84,22 @@ mix ecto.setup
 
 Runs create, migrate, and run seeds.exs.
 
+# Phoenix Commands
+
+```bash
+mix phx.new project_name
+```
+
+Creates a new Phoenix project.
+
+```bash
+mix phx.server
+```
+
+Starts the Phoenix web server.
+
+```bash
+mix phx.routes
+```
+
+Displays all defined routes.
