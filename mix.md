@@ -83,23 +83,3 @@ mix ecto.setup
 ```
 
 Runs create, migrate, and run seeds.exs.
-
-# Phoenix Commands
-
-```bash
-mix phx.new project_name
-```
-
-Creates a new Phoenix project.
-
-```bash
-mix phx.server
-```
-
-Starts the Phoenix web server.
-
-```bash
-mix phx.routes
-```
-
-Displays all defined routes.
