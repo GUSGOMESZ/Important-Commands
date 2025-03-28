@@ -1,4 +1,4 @@
-# PHOENIX 
+# PHOENIX 🐦
 
 Here are some important commands related to Phoenix !
 
