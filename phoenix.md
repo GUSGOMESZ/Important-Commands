@@ -2,22 +2,22 @@
 
 Here are some important commands related to Phoenix !
 
-# Basic commands
-
-Creates a new Phoenix project.
+---
 
 ```bash
 mix phx.new project_name
 ```
 
-Starts the Phoenix web server.
+Creates a new Phoenix project.
 
 ```bash
 mix phx.server
 ```
 
-Displays all defined routes.
+Starts the Phoenix web server.
 
 ```bash
 mix phx.routes
 ```
+
+Displays all defined routes.
