@@ -2,6 +2,8 @@
 
 Here are some important commands related to Git !
 
+---
+
 ```bash
 git --version
 ```
