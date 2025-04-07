@@ -5,37 +5,37 @@ Here are some important commands related to Mix !
 ---
 
 ```bash
-mix new project_name
+$ mix new project_name
 ```
 
 Creates a new elixir project.
 
 ```bash
-mix compile
+$ mix compile
 ```
 
 Compiles the project.
 
 ```bash
-mix deps.get
+$ mix deps.get
 ```
 
 Fetches project dependencies.
 
 ```bash
-mix test
+$ mix test
 ```
 
 Runs tests.
 
 ```bash
-mix run
+$ mix run
 ```
 
 Executes the project.
 
 ```bash
-mix format
+$ mix format
 ```
 
 Auto-formats code.
