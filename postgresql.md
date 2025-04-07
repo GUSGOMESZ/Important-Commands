@@ -11,7 +11,13 @@ $ pg_config --version
 Verify the PostgreSQL version installed.
 
 ```bash
+$ dpkg -l | grep postgresql
+```
+
+Verify if Postgresql or related packages are installed.
+
+```bash
 $ sudo service postgresql start
 ```
 
-Start the PostgreSQL service on Linux systems that use systemd or SysV init
+Start the PostgreSQL service on Linux systems that use systemd or SysV init.

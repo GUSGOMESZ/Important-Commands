@@ -11,13 +11,13 @@ $ git --version
 Verify the Git version installed.
 
 ```bash
-$ git config --global user.name "Seu Nome"
+$ git config --global user.name "Your Name"
 ```
 
 Defines your name.
 
 ```bash
-$ git config --global user.email "seu@email.com"
+$ git config --global user.email "your@email.com"
 ```
 
 Defines your e-mail.
