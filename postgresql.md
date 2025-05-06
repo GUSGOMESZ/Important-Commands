@@ -21,3 +21,9 @@ $ sudo service postgresql start
 ```
 
 Start the PostgreSQL service on Linux systems that use systemd or SysV init.
+
+```bash
+$ sudo systemctl stop postgresql
+```
+
+Stops the PostgreSQL service.
