@@ -27,3 +27,10 @@ $ docker-compose down
 ```
 
 Stop and remove containers.
+
+
+```bash
+$ docker images
+```
+
+Lists all Docker images stored locally on your system.
