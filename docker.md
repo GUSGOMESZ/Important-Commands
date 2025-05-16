@@ -28,6 +28,11 @@ $ docker-compose down
 
 Stop and remove containers.
 
+```bash
+$ docker stop $(docker container ls -q)
+```
+
+Stop all containers.
 
 ```bash
 $ docker images
